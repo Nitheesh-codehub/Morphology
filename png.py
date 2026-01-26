@@ -2,8 +2,8 @@ import numpy as np
 from PIL import Image
 
 # ---------------- CONFIG ----------------
-HEX_FILE = "edge_out5.hex"   # input from RTL
-OUT_IMG  = "output8.png"
+HEX_FILE = "output.hex"   # input from RTL
+OUT_IMG  = "morphology.png"
 
 IMG_W = 256
 IMG_H = 256
